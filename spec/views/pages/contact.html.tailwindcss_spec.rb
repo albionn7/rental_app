@@ -1,5 +1,7 @@
 require 'rails_helper'
 
 RSpec.describe "pages/contact.html.tailwindcss", type: :view do
-  pending "add some examples to (or delete) #{__FILE__}"
+    it 'renders the contact pages' do
+
+    end
 end
